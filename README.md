@@ -31,7 +31,7 @@ If you use the NPQ code for a publication, please cite the following paper:
 } 
 
 
-#Usage
+# Usage
 
 1. Obtain the pre-processed dataset files for MNIST, CIFAR-10 and NUSWIDE here: 
 https://www.dropbox.com/sh/pvso066sqd2z8ja/AABu7dxMx92lhlLLXLUpg_jMa?dl=0
@@ -40,7 +40,7 @@ https://www.dropbox.com/sh/pvso066sqd2z8ja/AABu7dxMx92lhlLLXLUpg_jMa?dl=0
 
 3. run_quant.m
 
-#Copyright
+# Copyright
 
 Copyright (C) by Sean Moran, University of Edinburgh
 
