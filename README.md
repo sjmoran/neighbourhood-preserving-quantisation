@@ -12,6 +12,7 @@ Prerequisites:
 
 If you use the NPQ code for a publication, please cite the following paper:
 
+```
 @inproceedings{Moran:2013:NPQ:2484028.2484162,
  author = {Moran, Sean and Lavrenko, Victor and Osborne, Miles},
  title = {Neighbourhood Preserving Quantisation for LSH},
@@ -29,7 +30,7 @@ If you use the NPQ code for a publication, please cite the following paper:
  address = {New York, NY, USA},
  keywords = {approximate nearest neighbour search, hamming distance, image retrieval, locality sensitive hashing, manhattan distance},
 } 
-
+```
 
 # Usage
 
