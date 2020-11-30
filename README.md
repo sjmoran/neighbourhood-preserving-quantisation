@@ -1,6 +1,6 @@
 # Neighbourhood Preserving Quantisation for LSH
 
-Current version: 0.1. Distributed under a Creative Commons Attribution-NonCommercial License: http://creativecommons.org/licenses/by-nc/4.0/deed.en_US
+Current version: 1.0. Distributed under a Creative Commons Attribution-NonCommercial License: http://creativecommons.org/licenses/by-nc/4.0/deed.en_US
 
 This code is an implementation of the Neighbourhood Preserving Quantisation (NPQ) model introduced in the paper:
 
